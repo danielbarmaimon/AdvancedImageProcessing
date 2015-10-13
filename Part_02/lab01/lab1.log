@@ -1,0 +1,689 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.26)  7 DEC 2014 21:16
+entering extended mode
+**lab1.tex
+
+("C:\Users\Daniel Barmaimon\Desktop\Edinburgh\Advanced Image Analysis\Assigment
+s\Part_02\lab01\lab1.tex"
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count89
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count90
+\c@subtable=\count91
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen112
+\epsfysize=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen114
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks18
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks19
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen123
+\Gm@wd@mp=\dimen124
+\Gm@odd@mp=\dimen125
+\Gm@even@mp=\dimen126
+\Gm@layoutwidth=\dimen127
+\Gm@layoutheight=\dimen128
+\Gm@layouthoffset=\dimen129
+\Gm@layoutvoffset=\dimen130
+\Gm@dimlist=\toks22
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
+Package: mathtools 2014/07/16 v1.15 mathematical typesetting tools
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count107
+\calc@Bcount=\count108
+\calc@Adimen=\dimen131
+\calc@Bdimen=\dimen132
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count109
+\calc@Cskip=\skip48
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count110
+\l_MT_multwidth_dim=\dimen133
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen134
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen135
+\l_MT_above_intertext_sep=\dimen136
+\l_MT_below_intertext_sep=\dimen137
+\l_MT_above_shortintertext_sep=\dimen138
+\l_MT_below_shortintertext_sep=\dimen139
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen140
+\enit@toks=\toks23
+\enit@inbox=\box30
+\enitdp@description=\count111
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count112
+)
+
+LaTeX Warning: Unused global option(s):
+    [conference].
+
+
+("C:\Users\Daniel Barmaimon\Desktop\Edinburgh\Advanced Image Analysis\Assigment
+s\Part_02\lab01\lab1.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 33.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen141
+\scratchbox=\box31
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen142
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks25
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=759.6886pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+Missing character: There is no â in font ptmb7t!
+Missing character: There is no € in font ptmb7t!
+Missing character: There is no “ in font ptmb7t!
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 46
+.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 46
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 46
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 46
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
+
+<reportImages/exp1_original.png, id=1, 421.575pt x 316.18124pt>
+File: reportImages/exp1_original.png Graphic file (type png)
+
+<use reportImages/exp1_original.png>
+Package pdftex.def Info: reportImages/exp1_original.png used on input line 89.
+(pdftex.def)             Requested size: 256.07481pt x 192.05975pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+
+<reportImages/exp1_magnitude.PNG, id=2, 421.575pt x 316.18124pt>
+File: reportImages/exp1_magnitude.PNG Graphic file (type png)
+
+<use reportImages/exp1_magnitude.PNG>
+Package pdftex.def Info: reportImages/exp1_magnitude.PNG used on input line 105
+.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+
+Overfull \hbox (46.89536pt too wide) in paragraph at lines 105--106
+ [][] 
+ []
+
+<reportImages/exp1_phase.PNG, id=3, 421.575pt x 316.18124pt>
+File: reportImages/exp1_phase.PNG Graphic file (type png)
+
+<use reportImages/exp1_phase.PNG>
+Package pdftex.def Info: reportImages/exp1_phase.PNG used on input line 110.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+
+Overfull \hbox (46.89536pt too wide) in paragraph at lines 110--111
+ [][] 
+ []
+
+<reportImages/exp1_reconstructed.PNG, id=4, 421.575pt x 316.18124pt>
+File: reportImages/exp1_reconstructed.PNG Graphic file (type png)
+
+<use reportImages/exp1_reconstructed.PNG>
+Package pdftex.def Info: reportImages/exp1_reconstructed.PNG used on input line
+ 115.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+
+Overfull \hbox (46.89536pt too wide) in paragraph at lines 115--116
+ [][] 
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Daniel Barmaimon
+/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_02/lab01/reportImage
+s/exp1_original.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+<reportImages/exp1_lena.PNG, id=19, 272.51813pt x 258.9675pt>
+File: reportImages/exp1_lena.PNG Graphic file (type png)
+
+<use reportImages/exp1_lena.PNG>
+Package pdftex.def Info: reportImages/exp1_lena.PNG used on input line 128.
+(pdftex.def)             Requested size: 136.25873pt x 129.48341pt.
+
+<reportImages/exp1_random_phase.PNG, id=21, 261.22594pt x 260.47313pt>
+File: reportImages/exp1_random_phase.PNG Graphic file (type png)
+
+<use reportImages/exp1_random_phase.PNG>
+Package pdftex.def Info: reportImages/exp1_random_phase.PNG used on input line 
+133.
+(pdftex.def)             Requested size: 130.61264pt x 130.23624pt.
+
+<reportImages/exp1_sar.PNG, id=22, 269.50688pt x 259.7203pt>
+File: reportImages/exp1_sar.PNG Graphic file (type png)
+
+<use reportImages/exp1_sar.PNG>
+Package pdftex.def Info: reportImages/exp1_sar.PNG used on input line 144.
+(pdftex.def)             Requested size: 134.7531pt x 129.85983pt.
+
+<reportImages/exp1_sar_random_phase.PNG, id=23, 260.47313pt x 259.7203pt>
+File: reportImages/exp1_sar_random_phase.PNG Graphic file (type png)
+
+<use reportImages/exp1_sar_random_phase.PNG>
+Package pdftex.def Info: reportImages/exp1_sar_random_phase.PNG used on input l
+ine 149.
+(pdftex.def)             Requested size: 130.23624pt x 129.85983pt.
+File: reportImages/exp1_lena.PNG Graphic file (type png)
+ <use reportImages/exp1_lena.PNG>
+Package pdftex.def Info: reportImages/exp1_lena.PNG used on input line 161.
+(pdftex.def)             Requested size: 136.25873pt x 129.48341pt.
+
+<reportImages/exp1_random_mag.PNG, id=24, 369.63094pt x 368.1253pt>
+File: reportImages/exp1_random_mag.PNG Graphic file (type png)
+
+<use reportImages/exp1_random_mag.PNG>
+Package pdftex.def Info: reportImages/exp1_random_mag.PNG used on input line 16
+6.
+(pdftex.def)             Requested size: 136.76129pt x 136.20422pt.
+ [2 <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigm
+ents/Part_02/lab01/reportImages/exp1_magnitude.PNG (PNG copy)> <C:/Users/Daniel
+ Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_02/lab01/r
+eportImages/exp1_phase.PNG (PNG copy)> <C:/Users/Daniel Barmaimon/Desktop/Edinb
+urgh/Advanced Image Analysis/Assigments/Part_02/lab01/reportImages/exp1_reconst
+ructed.PNG (PNG copy)> <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Im
+age Analysis/Assigments/Part_02/lab01/reportImages/exp1_lena.PNG> <C:/Users/Dan
+iel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_02/lab0
+1/reportImages/exp1_random_phase.PNG> <C:/Users/Daniel Barmaimon/Desktop/Edinbu
+rgh/Advanced Image Analysis/Assigments/Part_02/lab01/reportImages/exp1_sar.PNG>
+ <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigment
+s/Part_02/lab01/reportImages/exp1_sar_random_phase.PNG>]
+File: reportImages/exp1_sar.PNG Graphic file (type png)
+ <use reportImages/exp1_sar.PNG>
+Package pdftex.def Info: reportImages/exp1_sar.PNG used on input line 176.
+(pdftex.def)             Requested size: 134.7531pt x 129.85983pt.
+
+<reportImages/exp1_sar_random_mag.PNG, id=32, 131.74219pt x 130.23656pt>
+File: reportImages/exp1_sar_random_mag.PNG Graphic file (type png)
+
+<use reportImages/exp1_sar_random_mag.PNG>
+Package pdftex.def Info: reportImages/exp1_sar_random_mag.PNG used on input lin
+e 181.
+(pdftex.def)             Requested size: 131.74185pt x 130.23624pt.
+
+<reportImages/exp2_lena.PNG, id=33, 259.7203pt x 260.47313pt>
+File: reportImages/exp2_lena.PNG Graphic file (type png)
+
+<use reportImages/exp2_lena.PNG>
+Package pdftex.def Info: reportImages/exp2_lena.PNG used on input line 195.
+(pdftex.def)             Requested size: 129.85983pt x 130.23624pt.
+
+<reportImages/exp2_lena_filer_01.PNG, id=34, 261.22594pt x 261.22594pt>
+File: reportImages/exp2_lena_filer_01.PNG Graphic file (type png)
+
+<use reportImages/exp2_lena_filer_01.PNG>
+Package pdftex.def Info: reportImages/exp2_lena_filer_01.PNG used on input line
+ 200.
+(pdftex.def)             Requested size: 130.61264pt x 130.61264pt.
+
+<reportImages/exp2_lena_filered_01.PNG, id=35, 260.47313pt x 261.22594pt>
+File: reportImages/exp2_lena_filered_01.PNG Graphic file (type png)
+
+<use reportImages/exp2_lena_filered_01.PNG>
+Package pdftex.def Info: reportImages/exp2_lena_filered_01.PNG used on input li
+ne 205.
+(pdftex.def)             Requested size: 130.23624pt x 130.61264pt.
+ [3 <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigm
+ents/Part_02/lab01/reportImages/exp1_random_mag.PNG> <C:/Users/Daniel Barmaimon
+/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_02/lab01/reportImage
+s/exp1_sar_random_mag.PNG> <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advance
+d Image Analysis/Assigments/Part_02/lab01/reportImages/exp2_lena.PNG> <C:/Users
+/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_02/
+lab01/reportImages/exp2_lena_filer_01.PNG> <C:/Users/Daniel Barmaimon/Desktop/E
+dinburgh/Advanced Image Analysis/Assigments/Part_02/lab01/reportImages/exp2_len
+a_filered_01.PNG>]
+File: reportImages/exp1_lena.PNG Graphic file (type png)
+
+<use reportImages/exp1_lena.PNG>
+Package pdftex.def Info: reportImages/exp1_lena.PNG used on input line 227.
+(pdftex.def)             Requested size: 136.25873pt x 129.48341pt.
+
+<reportImages/mask.PNG, id=44, 387.69844pt x 385.44pt>
+File: reportImages/mask.PNG Graphic file (type png)
+
+<use reportImages/mask.PNG>
+Package pdftex.def Info: reportImages/mask.PNG used on input line 232.
+(pdftex.def)             Requested size: 130.26578pt x 129.50696pt.
+
+<reportImages/lena_FFT.PNG, id=45, 387.69844pt x 386.19281pt>
+File: reportImages/lena_FFT.PNG Graphic file (type png)
+
+<use reportImages/lena_FFT.PNG>
+Package pdftex.def Info: reportImages/lena_FFT.PNG used on input line 237.
+(pdftex.def)             Requested size: 130.26578pt x 129.75989pt.
+
+<reportImages/exp2_3_spectrum.png, id=46, 387.69844pt x 385.44pt>
+File: reportImages/exp2_3_spectrum.png Graphic file (type png)
+
+<use reportImages/exp2_3_spectrum.png>
+Package pdftex.def Info: reportImages/exp2_3_spectrum.png used on input line 24
+8.
+(pdftex.def)             Requested size: 153.64644pt x 152.74998pt.
+
+<reportImages/exp3_magnitude01.PNG, id=47, 824.32968pt x 242.40562pt>
+File: reportImages/exp3_magnitude01.PNG Graphic file (type png)
+
+<use reportImages/exp3_magnitude01.PNG>
+Package pdftex.def Info: reportImages/exp3_magnitude01.PNG used on input line 2
+61.
+(pdftex.def)             Requested size: 412.16383pt x 121.2025pt.
+
+<reportImages/exp3_magnitude_compressed01.PNG, id=48, 826.58812pt x 247.67531pt
+>
+File: reportImages/exp3_magnitude_compressed01.PNG Graphic file (type png)
+ <use reportImages/exp3_magnitude_compressed01.PNG>
+Package pdftex.def Info: reportImages/exp3_magnitude_compressed01.PNG used on i
+nput line 266.
+(pdftex.def)             Requested size: 413.29305pt x 123.83734pt.
+
+<reportImages/exp3_lena_magnitude_compressed01.PNG, id=49, 386.94562pt x 387.69
+844pt>
+File: reportImages/exp3_lena_magnitude_compressed01.PNG Graphic file (type png)
+
+ <use reportImages/exp3_lena_magnitude_compressed01.PNG>
+Package pdftex.def Info: reportImages/exp3_lena_magnitude_compressed01.PNG used
+ on input line 271.
+(pdftex.def)             Requested size: 130.01283pt x 130.26578pt.
+ [4 <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigm
+ents/Part_02/lab01/reportImages/mask.PNG> <C:/Users/Daniel Barmaimon/Desktop/Ed
+inburgh/Advanced Image Analysis/Assigments/Part_02/lab01/reportImages/lena_FFT.
+PNG> <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assig
+ments/Part_02/lab01/reportImages/exp2_3_spectrum.png>]
+<reportImages/exp3_mag001.PNG, id=56, 386.94562pt x 385.44pt>
+File: reportImages/exp3_mag001.PNG Graphic file (type png)
+
+<use reportImages/exp3_mag001.PNG>
+Package pdftex.def Info: reportImages/exp3_mag001.PNG used on input line 283.
+(pdftex.def)             Requested size: 127.69244pt x 127.19559pt.
+
+<reportImages/exp3_mag0001.PNG, id=57, 386.19281pt x 386.94562pt>
+File: reportImages/exp3_mag0001.PNG Graphic file (type png)
+
+<use reportImages/exp3_mag0001.PNG>
+Package pdftex.def Info: reportImages/exp3_mag0001.PNG used on input line 288.
+(pdftex.def)             Requested size: 127.44402pt x 127.69244pt.
+
+<reportImages/exp3_mag00001.PNG, id=58, 386.94562pt x 386.94562pt>
+File: reportImages/exp3_mag00001.PNG Graphic file (type png)
+
+<use reportImages/exp3_mag00001.PNG>
+Package pdftex.def Info: reportImages/exp3_mag00001.PNG used on input line 293.
+
+(pdftex.def)             Requested size: 127.69244pt x 127.69244pt.
+
+<reportImages/exp3_phase001.PNG, id=59, 386.94562pt x 386.19281pt>
+File: reportImages/exp3_phase001.PNG Graphic file (type png)
+
+<use reportImages/exp3_phase001.PNG>
+Package pdftex.def Info: reportImages/exp3_phase001.PNG used on input line 305.
+
+(pdftex.def)             Requested size: 116.08458pt x 115.85872pt.
+
+<reportImages/exp3_phase0001.PNG, id=60, 387.69844pt x 386.94562pt>
+File: reportImages/exp3_phase0001.PNG Graphic file (type png)
+
+<use reportImages/exp3_phase0001.PNG>
+Package pdftex.def Info: reportImages/exp3_phase0001.PNG used on input line 310
+.
+(pdftex.def)             Requested size: 116.31042pt x 116.08458pt.
+
+<reportImages/exp3_phase00001.PNG, id=61, 387.69844pt x 386.19281pt>
+File: reportImages/exp3_phase00001.PNG Graphic file (type png)
+
+<use reportImages/exp3_phase00001.PNG>
+Package pdftex.def Info: reportImages/exp3_phase00001.PNG used on input line 31
+5.
+(pdftex.def)             Requested size: 116.31042pt x 115.85872pt.
+
+<reportImages/exp3_phase000001.PNG, id=62, 386.94562pt x 386.19281pt>
+File: reportImages/exp3_phase000001.PNG Graphic file (type png)
+
+<use reportImages/exp3_phase000001.PNG>
+Package pdftex.def Info: reportImages/exp3_phase000001.PNG used on input line 3
+20.
+(pdftex.def)             Requested size: 116.08458pt x 115.85872pt.
+ [5 <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigm
+ents/Part_02/lab01/reportImages/exp3_magnitude01.PNG> <C:/Users/Daniel Barmaimo
+n/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_02/lab01/reportImag
+es/exp3_magnitude_compressed01.PNG> <C:/Users/Daniel Barmaimon/Desktop/Edinburg
+h/Advanced Image Analysis/Assigments/Part_02/lab01/reportImages/exp3_lena_magni
+tude_compressed01.PNG> <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Im
+age Analysis/Assigments/Part_02/lab01/reportImages/exp3_mag001.PNG> <C:/Users/D
+aniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_02/la
+b01/reportImages/exp3_mag0001.PNG> <C:/Users/Daniel Barmaimon/Desktop/Edinburgh
+/Advanced Image Analysis/Assigments/Part_02/lab01/reportImages/exp3_mag00001.PN
+G>] [6 <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Ass
+igments/Part_02/lab01/reportImages/exp3_phase001.PNG> <C:/Users/Daniel Barmaimo
+n/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_02/lab01/reportImag
+es/exp3_phase0001.PNG> <C:/Users/Daniel Barmaimon/Desktop/Edinburgh/Advanced Im
+age Analysis/Assigments/Part_02/lab01/reportImages/exp3_phase00001.PNG> <C:/Use
+rs/Daniel Barmaimon/Desktop/Edinburgh/Advanced Image Analysis/Assigments/Part_0
+2/lab01/reportImages/exp3_phase000001.PNG>]
+("C:\Users\Daniel Barmaimon\Desktop\Edinburgh\Advanced Image Analysis\Assigment
+s\Part_02\lab01\lab1.aux") ) 
+Here is how much of TeX's memory you used:
+ 4975 strings out of 493705
+ 76176 string characters out of 3144536
+ 236879 words of memory out of 3000000
+ 8195 multiletter control sequences out of 15000+200000
+ 40888 words of font info for 92 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 36i,9n,38p,432b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontna
+me/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
+/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on lab1.pdf (6 pages, 4221858 bytes).
+PDF statistics:
+ 111 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+
